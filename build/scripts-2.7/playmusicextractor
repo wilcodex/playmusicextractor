@@ -1,0 +1,4 @@
+#!C:\Python27\python.exe
+
+import playmusicextractor
+playmusicextractor.main()
