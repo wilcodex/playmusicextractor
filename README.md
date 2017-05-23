@@ -17,6 +17,10 @@ Optional dependencies
 
 Usage
 -----
+--NOTE-- Currently copying files directly from mobile using ADB is in development stage, 
+till it is completed you can copy files from you phone(song files from-- /data/data/com.google.music/files/music 
+and database-- /data/data/com.google.music/database/music.db ) to your pc and use commands given in help section.
+
 1. Root your phone and install _BusyBox_ (https://play.google.com/store/apps/details?id=stericson.busybox).
    You can skip this step if you are using CyanogenMod or other ROM that already includes BusyBox
 2. Enable _Developer options_ by clicking 7x on _Build number_ in Settings -> About phone
