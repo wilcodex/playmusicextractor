@@ -51,3 +51,7 @@ Help
                             remote path to directory with encrypted MP3 files on
                             device (default:
                             /data/data/com.google.android.music/files/music)
+ 
+ CREDITS 
+ -------
+ To unkown person for creating its base AND to me for tweaking it to make it more useful and fantastic.
